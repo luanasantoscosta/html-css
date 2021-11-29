@@ -1,0 +1,16 @@
+body {
+  text-align: justify;
+  background-color: #a9fadf;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+p {
+  text-indent: 20px;
+}
+.principal {
+  text-align: center;
+  font-size: 60px;
+  background-color: aqua;
+}
+section {
+  font-size: 20px;
+}

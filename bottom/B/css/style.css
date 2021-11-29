@@ -1,0 +1,57 @@
+body 
+{
+  background-color: #020238;
+  text-align: center;  
+}
+header
+{
+  border-radius: 20px;
+  background-color: #b2d1ec;
+  width: 270px;
+  text-align: center;
+}
+section 
+{
+  height: 30px;
+ 
+}
+button
+{
+  background-color: #84bbcc;
+  border-radius: 10px;
+}
+h1
+{
+  height: -70px;
+  background-color: thistle;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px; 
+}
+input
+{
+  border-radius: 5px;
+  text-align: justify;
+}
+#button:hover 
+{
+  background-color: #bff8b8;
+  font-size: 20px;
+  border-radius: 20px;
+}
+#email:hover 
+{
+  font-size: 15px;   
+  border-color: #bff8b8;  
+}
+#password:hover 
+{
+  font-size: 15px; 
+  border-color: #bff8b8;  
+}
+#you {
+  font-size: 2px;
+}
+.or:hover 
+{
+  font-size: 18px;
+} 
