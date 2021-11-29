@@ -2,4 +2,4 @@
  
 Estando HTML e CSS3!
 
-Aqui estãõ meus projetos :)
+Aqui estão meus projetos :)
