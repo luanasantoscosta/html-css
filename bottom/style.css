@@ -37,7 +37,8 @@ button
 }
 div button:hover
 {
- background-color: #129c9ce1;
- box-shadow: 3px 4px 4px 3px #129c9ce1;
+ background-color: #9c1212e1;
+ box-shadow: 3px 4px 4px 3px #9c1212e1;
+ border-color: rgb(116, 3, 3);
 }
 
