@@ -42,3 +42,7 @@ div button:hover
  border-color: rgb(116, 3, 3);
 }
 
+button:focus
+{
+  background-color:#9c1212e1;
+}
