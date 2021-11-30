@@ -1,5 +1,5 @@
 # html-css
  
-Estando HTML e CSS3!
+Estudando HTML e CSS3!
 
-Aqui estão meus projetos :)
+Aqui estão meus primeiros projetos :)
