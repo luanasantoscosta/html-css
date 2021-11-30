@@ -7,20 +7,24 @@
 body
 {
   background-image: radial-gradient( circle, #1c233b, #181e31, #000000f6);
-  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-family: Arial, sans-serif;
   color: azure;
-  font-size: 40px;
+  font-size: 50px;
+  font-weight: 900;
 }
 h1
 {
   margin: auto;
   text-align: center;
-  padding: 240px;
+  padding: 80px;
 }
 #button
 {
   margin: auto;
   text-align: center;
+  height: 660px;
+  width: 880px;
+  margin-top: 280px;
 
 }
 button
@@ -32,17 +36,13 @@ button
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 20px;
+  font-size: 40px; 
 
 }
 div button:hover
 {
- background-color: #9c1212e1;
- box-shadow: 3px 4px 4px 3px #9c1212e1;
- border-color: rgb(116, 3, 3);
-}
-
-button:focus
-{
-  background-color:#9c1212e1;
+ background-color: #d80303;
+ box-shadow: 4px 5px 5px 4px #462020e1;
+ border-color: rgb(255, 8, 8);
+ color: #18311b;
 }
