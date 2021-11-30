@@ -26,4 +26,10 @@ div#Q5
 {
   background-position: left bottom;
 }
+footer
+{
+  margin: auto;
+  border: 3px solid blue;
+  text-align: center;
+}
 

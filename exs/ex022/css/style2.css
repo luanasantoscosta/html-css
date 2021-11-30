@@ -5,3 +5,9 @@ body
   background-size: 100%;
   background-repeat: no-repeat;
 }
+footer
+{
+  margin: auto;
+  border: 3px solid blue;
+  text-align: center;
+}
