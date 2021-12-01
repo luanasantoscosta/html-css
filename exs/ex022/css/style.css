@@ -41,11 +41,11 @@ div#Q3
 }
 div#Q4
 {
-  background-image: url('../imagens/pattern002.png');
+  background-image:radial-gradient(circle, #f3f031, #c07615);
 }
 div#Q5
 {
- background-image:radial-gradient(circle, #8d8b03, #c07615);
+ background-image: url('../imagens/pattern002.png');
 }
 a
 {
