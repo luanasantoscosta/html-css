@@ -1,17 +1,25 @@
 body
 {
-  height: 100vh;
+  /*height: 100vh;
   background-color: black;
   background-image: url('../imagens/wallpaper002.jpg');
   background-position: center center;
   background-repeat: no-repeat;
+  background-size: cover;
+  text-align: justify;
+  background-attachment: fixed;*/
+
+  /*shorthand -background
+    color > image > position > repeat > [size] > attachment*/
+
+  background: black url('../imagens/wallpaper002.jpg') center center no-repeat fixed;
   background-size: cover;
 }
 main
 {
   font-family: Arial, Helvetica, sans-serif;
   background-color: white;
-  width: 600px;
+  max-width: 600px;
   padding: 20px;
   margin: auto;
   border: 2px solid red;
@@ -25,4 +33,12 @@ footer
   text-align: center;
   margin-left: 60px;
   margin-right: 60px;
+  border-radius: 14px;
+}
+h1{
+  text-align: center;
+}
+p
+{
+  text-indent: 40px;
 }
