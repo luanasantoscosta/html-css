@@ -13,12 +13,12 @@ body
 h2
 {
   text-align: center;
-  margin-top: 120px;
+  margin-top: 130px;
   font-size: 2em;
 }
 div.quadrado
 {
-  margin-top: 34vh;
+  margin-top: 15vh;
   margin-left: 14vh;
   display: inline-block;
   border: 3px solid #000000;
@@ -46,6 +46,10 @@ div#Q4
 div#Q5
 {
  background-image: url('../imagens/pattern002.png');
+}
+div#Q6
+{
+ background-image: url('../imagens/pattern004.png');
 }
 a
 {

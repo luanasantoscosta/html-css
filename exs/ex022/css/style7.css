@@ -1,0 +1,38 @@
+*
+{
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+#container
+{
+  background-image: url(../imagens/target001.png);
+  background-size: 100% 100%;
+  
+  position: relative;
+  height: 96vh;
+  padding: 10px;
+  background-color: #7c0202;
+}
+#conteudo
+{
+  background-image: url(../imagens/target001.png);
+  background-size: 100% 100%;
+
+  background-color: #ff7f08;
+
+  position: absolute;
+  height: 200px;
+  width: 400px;
+
+  left: 50%;
+  right: 50%;
+  transform: translate(-50%, 244%);
+  
+}
+footer
+{
+  margin: auto;
+  border: 3px solid blue;
+  text-align: center;
+}
